@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Burnetta
-- 👀 I’m interested in changing my career to data analytics and data science.
+- 👀 I’m interested in transitioning my career to data analytics and data science.
 - 🌱 I’m currently learning data analytics.
 - 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 How to reach me: burnettawood@gmail.com
